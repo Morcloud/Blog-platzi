@@ -1,0 +1,30 @@
+#header {
+	background-color: #263B46;
+}
+
+.logo {
+	display: inline-block;
+	margin: 5px;
+}
+
+.menu {
+	display: inline-block;
+	position: absolute;
+	right: 0;
+}
+
+.contenedor {
+	width: 1000px;
+	background: blue;
+}
+
+.imgrande {
+	width: 1000px;
+}
+
+.primero {
+	background-image: url('../images/platzi.jpg');
+	width: 800px;
+	height: 800px;
+	
+}
